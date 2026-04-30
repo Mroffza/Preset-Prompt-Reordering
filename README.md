@@ -1,4 +1,4 @@
-# Preset-Entry-Reordering
+# Preset Entry Reordering
 This is extension for SillyTavern
 
 What this extention do?
